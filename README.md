@@ -52,6 +52,6 @@ name of your component is.
 ## Copyright Information
 
 RealtorX5 is distributed as GPL (as MODx Revolution is), but the copyright owner
-(Shaun McCormick) grants all users of RealtorX5 the ability to modify, distribute
+(Mihkhail Savin) grants all users of RealtorX5 the ability to modify, distribute
 and use RealtorX5 in MODx development as they see fit, as long as attribution
 is given somewhere in the distributed source of all derivative works.
